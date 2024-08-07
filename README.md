@@ -51,3 +51,8 @@ In summary, when a finger is placed on the sensor, a corresponding voltage is pr
 ---
 
 🌟 **Overall**, this project offers a reliable, accurate, and practical solution for temperature measurement, appealing to a wide range of users and applications.
+
+<!-- Graphical GIF Animation -->
+<div class="gif-container" style="text-align: center; margin-bottom: 20px;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdob2I4cHdsdWhnbmtmYTBxbnk4cnl2YjZ1bGw5ZGZvMXBwdWc4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/00n6TSoGffGTLXSMPO/giphy.gif" alt="Working on it GIF" />
+</div>
